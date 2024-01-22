@@ -2,7 +2,8 @@
 ## Overview
 
 compress-image is a Python script designed to compress images either from the local system or from the internet, allowing users to specify the compression parameters and the maximum size of the resulting image file.
-Installation
+
+## Installation
 
 To use compress-image, make sure you have Python installed. Then, you can install the required dependencies using:
 
